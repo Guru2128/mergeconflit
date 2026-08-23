@@ -2,3 +2,11 @@ City : Chennai : Bangalore
 git checkout branch2
 git pull origin branch2
 New
+git checkout branch2
+git add .
+git commit -m "Changes from branch2"
+
+git checkout main
+git pull origin main
+git merge branch2
+git push origin main
