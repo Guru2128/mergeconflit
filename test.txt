@@ -1,4 +1,4 @@
-City : Chennai : Bangalore : UAE
+City : Chennai : Bangalore 
 git checkout branch2
 git pull origin branch2
 New
