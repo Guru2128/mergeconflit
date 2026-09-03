@@ -1,4 +1,4 @@
-City : Chennai : Bangalore : Mayiladuthurai : Kum
+City : Chennai : Bangalore : Mayiladuthurai : Kumbakonam
 git checkout branch2
 git pull origin branch2
 New
